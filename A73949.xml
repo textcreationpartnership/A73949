@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of the Queenes highnesse commission</title>
+            <title>Proclamations. 1568</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1568</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73949</idno>
+            <idno type="STC">STC 8048.7</idno>
+            <idno type="STC">ESTC S125353</idno>
+            <idno type="EEBO-CITATION">99898293</idno>
+            <idno type="PROQUEST">99898293</idno>
+            <idno type="VID">173532</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173532)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2062:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of the Queenes highnesse commission</title>
+                  <title>Proclamations. 1568</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>in Powles Churchyarde, by Richard Jugge and Iohn Cawood, printers to the Queenes Maiestie,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1568?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from STC.</note>
+                  <note>Appoints commissioners to enforce "the statute made in anno. xxxiii. Henri. viii touching the mayntenance of artillery."</note>
+                  <note>The last complete line of text ends: "be".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Archery --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Bow and arrow --  Law and legislation --  Early works to 1800.</term>
+               <term>Games --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:173532:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <pb facs="tcp:173532:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <head>¶ The copie of the Queenes highneſſe Commiſſion.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">E</seg>Lizabeth by the grace of God, Queene of Englande,</hi> Fraunce, and Irelande, defendour of the fayth. &amp;c.</signed>
+               <salute>To all and ſinguler our Iuſtices of peace, Maiors, Sheriffes, Bayliffes, Conſtables, and other our officers, of what eſtate, degree, or condition he or they be, and to euery of them, greetyng.</salute>
+            </opener>
+            <p>Whereas in the Parliament holden at Weſt<g ref="char:EOLhyphen"/>minſter, in the .xxxiii. yere of the raigne of our late father of worthy me<g ref="char:EOLhyphen"/>morie, kyng Henrie the eyght, one acte or ſtatute was then and there made for the mayntenaunce of artillerie, and debarryng of vnlawfull games: By the which good ſtatute, amongeſt many other thynges, it was prouided, that the fathers, gouernours, and maiſters of the youth of this our Realme, ſhoulde in diuers and ſundry ſortes, trayne and bryng vp their youth in ſhootyng in the long bowe, and ſhoulde haue for that purpoſe ſeuerall bowes and arrowes, in number and quantitie accordyng to their ages and yeres, vpon ſuch payne and penaltie as is expreſſed in the ſayde ſtatute: as by the ſame ſtatute more at large it doth and may appeare. And beyng geuen to vnderſtande, that for lacke of due ſearche whe<g ref="char:EOLhyphen"/>ther euery perſon or perſons in fourme aboueſayde haue bowe and arrowes accordyng to the tenor of the ſayde acte, the ſayde good ſtatute is in that behalfe in the moſt partes of this our Realme vtterly forgotten, and not accompliſſhed. We haue therefore thought it good for diuers good conſiderations vs ſpecially mouyng, to nominate, aſſigne, and appoynt our welbeloued Subiectes A B. C D. and euery of them to geue diligent and good attendaunce to the execution aſwell of that part &amp; braunche of the ſayde Statute, as alſo to all and euery other matter and thyng conteyned in the ſame: geuyng them and euery of them full power and aucthoritie by vertue of theſe preſentes, in our name, not only from tyme to tyme as often as neede ſhal require, to make due and lawfull ſearche in euery place with<g ref="char:EOLhyphen"/>in our Countie of S. aſwell within liberties as without, aſwell for ſuch as vſe vnlawfull games, as alſo for ſuch as kepe houſes or alleys for vnlawfull games: and alſo whether euery ſeuerall perſon or perſons for him ſelfe, his ſeruauntes, and other youth in his or their ſeuerall houſes, haue ſufficient furnitute and prouiſion of bowe and arrowes, and haue and do vſe and occupie the ſame accordyng to the true meanyng of the ſayde ſtatute. The which bowe and arrowes ſhalbe brought to ſome conue<g ref="char:EOLhyphen"/>nient place or places, within the ſeuerall townes and pariſhes where ſuch parties dwell, by the diſcre<g ref="char:EOLhyphen"/>tion of you our ſayde Iuſtices or other officers aforeſayde, there to be viewed and ſene by our ſayde ſub<g ref="char:EOLhyphen"/>iectes aboue named: but alſo vpon cauſe neceſſary, and where neede ſhalbe, to require you and euery of you our ſayde Iuſtices or other officers inhabityng or dwellyng within the ſayde Countie, aſwell within liberties as without, to ayde and aſſiſt them and euery of them in doyng and executyng the pre<g ref="char:EOLhyphen"/>miſſes. Vpon which ſearch, viewe, and examination by our ſayd ſubiectes aboue named, or any of them yf there ſhalbe founde any perſon or perſons offendyng in any the premiſſes contrary to the fourme of the ſayde ſtatute: then our pleaſure is, that ſuch of our ſayde ſubiectes aboue rehearſed as ſhall fynde the ſayde offences, ſhall preſent the ſame, with the names and dwellyng places of all and euery perſon ſo offendyng, and the tyme and continuaunce of their ſayde ſeuerall offences, in writyng, vnder their handes &amp; ſeales before you our ſayde Iuſtices, at the generall Seſſions of the peace to be holden within the ſayde Countie next after the fyndyng of the ſayde defaultes: To the intent that you may thervpon certifie vs into our court of Chauncerie, wherby we may further proceede agaynſt ſuch offendours, as ſhalbe moſt agreeable to the order of our lawes prouided in that behalfe. Wherfore we wyll and com<g ref="char:EOLhyphen"/>maunde you our ſayde Iuſtices and other officers, and euery of our ſubiectes appoynted to the ſeruice of theſe preſentes, to geue faythfull and good attendaunce to the execution of this our Commiſſion in all thynges as appertayneth accordyngly. In witneſſe wherof, we haue cauſed theſe our letters to be made patentes.</p>
+            <closer>
+               <dateline>Witneſſe our ſelfe. &amp;c.</dateline>
+               <signed>Per ipſam Reginam.</signed>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London in Powles Churchyarde, by Richard Jugge and Iohn Cawood, printers to the Queenes Maieſtie.</p>
+         </div>
+         <div type="license">
+            <p>Cum priuilegio Regiae Maieſtatis.</p>
+            <pb facs="tcp:173532:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:173532:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:173532:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 33 -->
+         </div>
+      </back>
+   </text>
+</TEI>
